@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of the Queen a poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53355</idno>
+            <idno type="STC">Wing O311</idno>
+            <idno type="STC">ESTC R28749</idno>
+            <idno type="EEBO-CITATION">10750261</idno>
+            <idno type="OCLC">ocm 10750261</idno>
+            <idno type="VID">45658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of the Queen a poem.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by John Whitlock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not to be confused with On the death of the Queen / by a person of honour [Lord Cutts]; The present work begins "When kingdoms feel such mighty strokes of fate."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45658:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:45658:1"/>
+            <!-- PDF PAGE 37 -->
+            <p>ON THE DEATH OF THE QUEEN, A POEM.</p>
+            <p>Licens'd <hi>March</hi> 9th, 1694/5.</p>
+            <p>
+               <hi>LONDON:</hi> Printed; And are to be ſold by <hi>John Whitlock</hi> near <hi>Stationers-Hall.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:45658:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="3" facs="tcp:45658:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>ON THE DEATH OF THE QUEEN, &amp;c.</head>
+            <lg>
+               <l>WHen Kingdoms feel ſuch mighty Strokes of Fate,</l>
+               <l>They ought to mourn not at the common rate:</l>
+               <l>For Vulgar Loſſes Vulgar Tears ſuffice,</l>
+               <l>A few weak Drops or Melancholy Sighs;</l>
+               <l>But when ſo great a Princeſs is no more</l>
+               <l>What Tears? What Accents can our Loſs deplore?</l>
+               <l>In Art we ſhall but ſmall Aſſiſtance find,</l>
+               <l>To tell the mighty Sorrows of the Mind;</l>
+               <pb n="4" facs="tcp:45658:3"/>
+               <!-- PDF PAGE 39 -->
+               <l>The Muſe that ſings exactly we miſtruſt,</l>
+               <l>Her Paſſion is not hearty, tho' 'tis juſt;</l>
+               <l>For real Griefs will artful Fancy ſcorn,</l>
+               <l>Deſpiſing ſtudied Methods, how to mourn:</l>
+               <l>In broken Sighs our Troubles are expreſt,</l>
+               <l>And unaffected Numbers ſing 'em beſt.</l>
+            </lg>
+            <lg>
+               <l>Let manly Sorrow then each Soul employ,</l>
+               <l>Diſpos'd to Trouble and averſe to Joy;</l>
+               <l>All that was Good and Beautiful is gone,</l>
+               <l>The Ornament and Bleſſing of the Throne:</l>
+               <l>
+                  <hi>Maria</hi> was our Honour, our Delight,</l>
+               <l>She pleas'd our Ears, and ſatisfied our Sight.</l>
+            </lg>
+            <lg>
+               <l>When Fame had on her buſie Wings convey'd</l>
+               <l>Afar the Graces of the Royal Maid,</l>
+               <l>
+                  <hi>Europe</hi>'s young Princes for her Favour ſtrove,</l>
+               <l>And with large Preſents thought to bribe her Love;</l>
+               <l>
+                  <hi>Maria</hi> all their promis'd Empires ſcorn'd,</l>
+               <l>With generous Slights their worthleſs Suits return'd;</l>
+               <l>Till <hi>Naſſaw</hi>'s growing Merit firſt did move</l>
+               <l>Her Soul, and taught it early how to love:</l>
+               <l>The Princeſs heard the Hero when he pray'd,</l>
+               <l>Whilſt Virgin Bluſhes all her Heart betray'd;</l>
+               <pb n="5" facs="tcp:45658:3"/>
+               <!-- PDF PAGE 39 -->
+               <l>Her Wiſhes were diſcover'd in her Eyes,</l>
+               <l>And the young Goddeſs was the Victor's Prize.</l>
+            </lg>
+            <lg>
+               <l>By Heaven ſhe ſeem'd predeſtin'd to the Crown,</l>
+               <l>Which Merit, the beſt Title, made her own.</l>
+               <l>Her wondrous Beauty juſtified her ſway,</l>
+               <l>For who, that ſaw her Eyes, could diſobey?</l>
+               <l>In her both Majeſty and Meekneſs met,</l>
+               <l>A Vertue ſeldom found among the great;</l>
+               <l>Such noble Sweetneſs in her Looks we ſaw,</l>
+               <l>Temper'd with Royalty and God-like Aw,</l>
+               <l>As mortified the Proud, and bleſt the Meek,</l>
+               <l>And courted wrong'd Petitioners to ſpeak:</l>
+               <l>The Fierceneſs of her Hero ſhe employ'd</l>
+               <l>When powerful Vice was fit to be deſtroy'd:</l>
+               <l>Yet tho' her Juſtice was ſo much rever'd,</l>
+               <l>The Mercy of the Goddeſs ſtill appear'd.</l>
+               <l>Some Princes, who <hi>Maria</hi>'s Scepter ſway'd,</l>
+               <l>Us'd little Tricks and Force to be obey'd;</l>
+               <l>But our fair Empreſs had no need of Art,</l>
+               <l>She reign'd in every valuable Heart.</l>
+               <l>On her few Enemies, when e're ſhe ſmil'd,</l>
+               <l>Faction forgot its Fury and was mild;</l>
+               <pb n="6" facs="tcp:45658:4"/>
+               <!-- PDF PAGE 40 -->
+               <l>Thoſe Enemies begot by a Miſtake,</l>
+               <l>Ador'd the Princeſs for the Beauty's ſake,</l>
+               <l>Whoſe early Vertues with her Years increas'd,</l>
+               <l>And promis'd us the Bleſſing we poſſeſs'd.</l>
+               <l>In all the private Actions of her Life,</l>
+               <l>The beſt of Women and the kindeſt Wife.</l>
+            </lg>
+            <lg>
+               <l>O <hi>Naſſaw!</hi> What didſt thou poſſeſs in her,</l>
+               <l>So Pious, Kind, ſo Dutiful and Fair,</l>
+               <l>To thee ſhe yielded all her blooming Charms,</l>
+               <l>She lull'd thy Care aſleep within her Arms:</l>
+               <l>In all your Toils <hi>Maria</hi> bore her part,</l>
+               <l>Your conſtant Dangers toucht her tender Heart;</l>
+               <l>Your abſence with perpetual Sighs ſhe griev'd,</l>
+               <l>And with your Preſence only was reliev'd.</l>
+               <l>When Storms aroſe and Enemies appear'd,</l>
+               <l>When Stateſmen cou'd adviſe no more, and Warriors fear'd,</l>
+               <l>She was in Action bold, in Counſel wiſe,</l>
+               <l>Prevented all Attacks, and ſuffer'd no Surprize.</l>
+            </lg>
+            <lg>
+               <l>When at the <hi>Boyn,</hi> for Victory you ſtrove,</l>
+               <l>And Glory ſeem'd too prevalent for Love,</l>
+               <l>Regardleſs of your Fate, when you ruſh'd on,</l>
+               <l>And dy'd with Royal Blood the Field you won;</l>
+               <pb n="7" facs="tcp:45658:4"/>
+               <!-- PDF PAGE 40 -->
+               <l>Fame repreſented to <hi>Maria</hi>'s View,</l>
+               <l>In dreadful Shapes, the Deaths that threatned you;</l>
+               <l>O then the Heroine began to fear,</l>
+               <l>Her Frights increaſe, and in her Looks appear:</l>
+               <l>Then all the ſoftneſs of her Sex was ſhewn,</l>
+               <l>Your Dangers ſhook her tho' ſhe ſcorn'd her own;</l>
+               <l>With comely Grief her Beauties were increaſt,</l>
+               <l>And pretious Sighs diſturb'd her Royal Breaſt,</l>
+               <l>Till your freſh Laurels at her Feet you lay,</l>
+               <l>And your known Safety drove her Cares away:</l>
+               <l>Then all her Graces with new Luſtre ſhin'd,</l>
+               <l>Her Looks declar'd the Pleaſures of her Mind.</l>
+               <l>Her duteous Maids, who whilſt <hi>Maria</hi> mourn'd,</l>
+               <l>Sigh'd nightly by her till her Lord return'd;</l>
+               <l>Then grieve no more, they all forgot the ſmart,</l>
+               <l>And Love and Joy triumphs in ev'ry Heart:</l>
+               <l>Now they contrive a thouſand various ways,</l>
+               <l>To pleaſe the Hero with their gentle plays,</l>
+               <l>To ſooth his war-like Spirit into Peace,</l>
+               <l>And make him condeſcend to be at eaſe.</l>
+               <l>Love made the brighteſt Figure at the Court,</l>
+               <l>Where Youth and Wit, and Innocence reſort,</l>
+               <l>
+                  <hi>Maria,</hi> high, above the reſt did ſhine,</l>
+               <l>Her Mien moſt graceful and her Form Divine;</l>
+               <pb n="8" facs="tcp:45658:5"/>
+               <!-- PDF PAGE 41 -->
+               <l>Her Nymphs, who daily waited round the Throne,</l>
+               <l>Who ſhin'd with Beams reflected from her own,</l>
+               <l>In fair <hi>Maria</hi>'s Abſence, might have been</l>
+               <l>Each taken for a Goddeſs or a Queen:</l>
+               <l>But when our Princeſs grac'd the youthful Train,</l>
+               <l>We ſoon diſtinguiſh'd who deſerv'd to reign;</l>
+               <l>At her's, their little Beauties diſappear,</l>
+               <l>And nothing ſeem'd <hi>agreeable</hi> but her.</l>
+            </lg>
+            <lg>
+               <l>But oh! the Goddeſs has the Temple left,</l>
+               <l>Of all its Excellence and Pleaſures reft:</l>
+               <l>See the Remains of Love and Nature's Pride,</l>
+               <l>Lies pale and ghaſtly by her Monarch's Side;</l>
+               <l>The World's great Lord diſſolv'd in manly Tears,</l>
+               <l>Penſive and ſighing by his Queen appears:</l>
+               <l>Around her ſee the diſmal Pomp of Woe,</l>
+               <l>How all in various ways their Trouble ſhew;</l>
+               <l>See their diſtracted Looks and hear their Sighs,</l>
+               <l>Her Maids wild Queſtions and their odd Replies;</l>
+               <l>They beat their Breaſts, they tear their lovely Hair,</l>
+               <l>Deſpiſing every comfort, but <hi>deſpair:</hi>
+               </l>
+               <l>Like weeping Loves around the Queen they lie,</l>
+               <l>And with their Miſtreſs covet all to die.</l>
+               <pb n="9" facs="tcp:45658:5"/>
+               <!-- PDF PAGE 41 -->
+               <l>Mourn, mourn ye gay Companions of her Court,</l>
+               <l>Where now, alas! you muſt no more reſort;</l>
+               <l>Your Princeſs will no more her Palace grace,</l>
+               <l>Dark Looks and horrid Sighs muſt fill the Place:</l>
+               <l>O! Let it ne're with Pleaſure be defil'd,</l>
+               <l>Let nothing there be ſeen but what is wild,</l>
+               <l>Wild, as our Woes, let every Look appear,</l>
+               <l>And Joy for ever be forgotten there.</l>
+               <l>
+                  <hi>Maria</hi>'s gone, with all her Beauties fled,</l>
+               <l>To bleſs the Manſions of the happy Dead:</l>
+               <l>Let every Muſe attend her in her flight,</l>
+               <l>To the bright Regions of Eternal Light,</l>
+               <l>Where born on Cherubs, through the Air ſhe flies,</l>
+               <l>And with new Glories gilds the nether Skyes,</l>
+               <l>Whilſt Angels bluſh and are aſham'd to <hi>own</hi>
+               </l>
+               <l>A mortal Being purer than their own;</l>
+               <l>Yet ſure of Bliſs, when e're ſhe ſhould reſign</l>
+               <l>Her earthly Subſtance for a more Divine.</l>
+            </lg>
+            <lg>
+               <l>If it had pleas'd the Author of our Fate,</l>
+               <l>We wiſh her laſt Aſcenſion had been late,</l>
+               <l>That by her means our Diſcords might have ceas'd,</l>
+               <l>And Satisfaction reign'd in every Breaſt,</l>
+               <pb n="10" facs="tcp:45658:6"/>
+               <!-- PDF PAGE 42 -->
+               <l>That happy in ſome Princes of her Blood,</l>
+               <l>Great like our Monarch, like <hi>Maria</hi> good,</l>
+               <l>Her Subjects might have ever bleſt her Womb,</l>
+               <l>And paid in Peace their Offerings to her Tomb.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45658:6"/>
+            <!-- PDF PAGE 42 -->
+         </div>
+      </body>
+   </text>
+</TEI>
